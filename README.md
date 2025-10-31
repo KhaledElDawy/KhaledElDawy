@@ -19,4 +19,28 @@ I love building secure, scalable, and efficient web applications using modern te
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+---
+
+## ⚡ GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=KhaledElDawy&show_icons=true&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledElDawy&layout=compact&count_private=true&theme=gruvbox" />
+
+---
+
+## 📫 Let's Connect
+
+🌐 [LinkedIn](https://www.linkedin.com/in/khaled-eldawy-417668208)  
+💻 [Portfolio / Projects](https://github.com/KhaledElDawy?tab=repositories)  
+📧 khaled.eldawy@example.com  
+💬 [Facebook](https://www.facebook.com/khaled.eldawy.9)  
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KhaledElDawy.KhaledElDawy)
