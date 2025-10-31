@@ -40,7 +40,7 @@ I love building secure, scalable, and efficient web applications using modern te
 
 🌐 [LinkedIn](https://www.linkedin.com/in/khaled-eldawy-417668208)  
 💻 [Portfolio / Projects](https://github.com/KhaledElDawy?tab=repositories)  
-📧 📧 [khaled.eldos74@gmail.com](mailto:khaled.eldos74@gmail.com)   
+📧  [khaled.eldos74@gmail.com](mailto:khaled.eldos74@gmail.com)   
 💬 [Facebook](https://www.facebook.com/khaled.eldawy.9)  
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KhaledElDawy.KhaledElDawy)
